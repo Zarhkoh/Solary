@@ -1,0 +1,34 @@
+html, body {
+
+    background-color: rgb(43, 43, 43);
+    color: antiquewhite;
+}
+
+body:hover{
+    background-image: url("images/Color_icon_blue.svg");
+    filter: hue-rotate(4000deg);
+    transition: ease-in-out 3s;
+    height: 1000px;
+}
+.center {
+    /*opacity: 0.3;*/
+    text-align: center;
+    
+}
+#logo {
+    transition: ease-in-out 3s;
+}
+#logo:hover {
+    transform: rotate(9000deg);
+    filter: hue-rotate(4000deg);
+    transition: ease-in-out 3s;
+}
+a {
+    color: antiquewhite;
+    text-decoration-line: line-through ;
+    font-weight: bold;
+}
+
+.all{
+    filter: drop-shadow(30px 10px 4px #000000ab);
+}
