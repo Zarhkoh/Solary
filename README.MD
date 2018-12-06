@@ -1,0 +1,1 @@
+Premiers essais de la fonction :hover qui m'a bien fait rire, j'ai donc décidé de garder ça dans un coin, au cas ou!
